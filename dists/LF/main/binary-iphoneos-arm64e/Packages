@@ -1,0 +1,16 @@
+Package: iOS26LockDesignerTheme
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: LF
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./pool/main/arm64e/i/iOS26LockDesignerTheme_1.0_iphoneos-arm64e.deb
+Size: 36040
+MD5sum: 5eb3638c96e8817a314f05324a890e51
+SHA1: 51d8d2d33d1bb0311f39c78888e48bca4c55c235
+SHA256: 42fb566bc82440a21586e79b1225564432d05ce7658fab4a49f3f58b5f81ed3a
+Section: Themes主题
+Description: iOS26风格锁屏主题，字体来自威锋大佬，Powered by Designer
+Author: LF
+Icon: https://pic3.zhimg.com/v2-f5381ebfd5266d9cfd4e83017e24fb5c_r.jpg
+Name: iOS26-Lock-Designer-Theme（26锁屏主题）
+
