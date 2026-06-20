@@ -5,7 +5,7 @@ Welcome to LF's iOS jailbreak repo!
 
 > Auther: LF  Maintained by AD, XMZ
 
-#### by AD Reconstruct, by AD Restore update
+#### by XMZ Reconstruct, by XMZ Restore update
 
 ## Supports
 - RootlessJB
