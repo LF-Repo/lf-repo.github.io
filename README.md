@@ -3,7 +3,7 @@ Welcome to LF's iOS jailbreak repo!
 ```
 # lfrepo - iOS Jailbreak apt repo of LF
 
-> Maintained by AD
+> Auther: LF  Maintained by AD, XMZ
 
 #### by AD Reconstruct, by AD Restore update
 
