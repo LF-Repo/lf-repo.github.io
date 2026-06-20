@@ -2,10 +2,8 @@
 !Terminal
 *.temp
 *.tmp
-*.sh
 *.log
 *.old
-update-repo
 !debs/*/Terminal
 !Debs/*/Terminal
 bak/*

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git add .
+git commit -m updated by the update script provided by XMZ" $(date +'%Y-%m-%d %H:%M')"
+git pull --rebase
+git push origin main
